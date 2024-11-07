@@ -1,3 +1,0 @@
-/home/arcnemesys/Desktop/Cpp/wxhw/wavegen/build/CMakeFiles/wavegen.dir
-/home/arcnemesys/Desktop/Cpp/wxhw/wavegen/build/CMakeFiles/edit_cache.dir
-/home/arcnemesys/Desktop/Cpp/wxhw/wavegen/build/CMakeFiles/rebuild_cache.dir

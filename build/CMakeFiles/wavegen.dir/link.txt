@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/wavegen.dir/src/main.cpp.o -o wavegen  -lwx_gtk3u_core-3.2 -lwx_baseu-3.2

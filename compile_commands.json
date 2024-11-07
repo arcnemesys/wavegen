@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/arcnemesys/Desktop/Cpp/wxhw/wxwidgets_minimal",
-  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK3__ -D__WXGTK__ -isystem /usr/lib/wx/include/gtk3-unicode-3.2 -isystem /usr/include/wx-3.2  -o CMakeFiles/wxwidgets_minimal.dir/src/main.cpp.o -c /home/arcnemesys/Desktop/Cpp/wxhw/wxwidgets_minimal/src/main.cpp",
-  "file": "/home/arcnemesys/Desktop/Cpp/wxhw/wxwidgets_minimal/src/main.cpp",
-  "output": "CMakeFiles/wxwidgets_minimal.dir/src/main.cpp.o"
-}
-]
