@@ -1,0 +1,3 @@
+/home/arcnemesys/Desktop/Cpp/wxhw/wxwidgets_minimal/CMakeFiles/wxwidgets_minimal.dir
+/home/arcnemesys/Desktop/Cpp/wxhw/wxwidgets_minimal/CMakeFiles/edit_cache.dir
+/home/arcnemesys/Desktop/Cpp/wxhw/wxwidgets_minimal/CMakeFiles/rebuild_cache.dir
