@@ -59,3 +59,7 @@ Thumbs.db
 # Other project files
 *.mod
 *.smod
+# CMake
+*.cmake 
+*.json 
+CMakeFiles/
